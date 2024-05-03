@@ -21,13 +21,18 @@ This repository contains a collection of mini projects implemented in Python. Ea
    
 4. **Image to PDF Converter** 🖼️ ➡️ 📄
    - Converts image files (e.g., PNG, JPEG) into PDF documents.
-   - Utilizes the `fpdf` library for PDF generation.
+   - Using the `fpdf` library.
    - Supports conversion of single or multiple images into a single PDF document.
    
 5. **YouTube Video Downloader** 🎥 ⬇️
    - Downloads videos from YouTube using the `pytube` library.
    - Supports downloading videos in various resolutions and formats (e.g., MP4, WEBM).
    - Provides options to download entire playlists or individual videos.
+
+6. **Language Detection** 🌐
+   - Detects the language of a given text using the `langdetect` library.
+   - Supports detection of over 55 languages with high accuracy.
+   - Simple and lightweight solution for language identification tasks.
 
 ## Usage 🚀
 
