@@ -10,3 +10,4 @@ pdf.image("D:\python mini projects\imge to pdf converter\dp.jpeg",60,120,w=120)
 
 #print the output
 pdf.output("dp.pdf","f") 
+
