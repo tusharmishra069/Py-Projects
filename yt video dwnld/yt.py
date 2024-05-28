@@ -6,4 +6,3 @@ link = input("Enter youtube video URl:-")
 yt = pytube.YouTube(link)
 yt.streams.first().download()
 print("downloaded",link)
-
