@@ -9,7 +9,7 @@ This repository contains a collection of mini projects implemented in Python. Ea
    - Input text or URL is converted into a QR code image.
    - Simple and easy-to-use command-line interface.
 
-2. **Random Main Password Generator** 🔐
+2. **Random Mail Password Generator** 🔐
    - Generates strong and random passwords of variable length.
    - Customizable options for including uppercase, lowercase, digits, and special characters.
    - Provides flexibility to generate multiple passwords at once.
